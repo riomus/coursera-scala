@@ -1,6 +1,5 @@
 *.class
 *.log
-*.project
 *.settings
 *.classpath
 # sbt specific
@@ -17,3 +16,4 @@ project/plugins/project/
 # Scala-IDE specific
 .scala_dependencies
 .worksheet
+/bin
